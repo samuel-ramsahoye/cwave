@@ -1,0 +1,7 @@
+{
+  "image": "ubuntu-gcc",
+  "extensions": [
+    "ms-vscode.cpptools"
+  ],
+  "runArgs": ["--privileged"]
+}
