@@ -1,5 +1,0 @@
-/workspaces/cwave/build/CMakeFiles/module_name.dir
-/workspaces/cwave/build/CMakeFiles/edit_cache.dir
-/workspaces/cwave/build/CMakeFiles/rebuild_cache.dir
-/workspaces/cwave/build/pybind11/CMakeFiles/edit_cache.dir
-/workspaces/cwave/build/pybind11/CMakeFiles/rebuild_cache.dir
